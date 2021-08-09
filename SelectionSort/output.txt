@@ -1,0 +1,8 @@
+input number : 100 : Sorting Time : 0.052000
+
+input number : 1020 : Sorting Time : 0.622000
+
+input number : 500 : Sorting Time : 0.300000
+
+input number : 50000 : Sorting Time : 12.692000
+
